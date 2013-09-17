@@ -18,6 +18,5 @@ if sys.version_info < (2, 7):
         url='https://www.github.com/dtcooper/python-fitparse',
         license=open('LICENSE').read(),
         packages=['fitparse'],
-        scripts=['scripts/fitdump'],  # Don't include generate_profile.py
         install_requires=requires,
         )
