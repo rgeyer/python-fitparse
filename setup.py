@@ -14,5 +14,4 @@ setup(
     url='https://www.github.com/dtcooper/python-fitparse',
     license=open('LICENSE').read(),
     packages=find_packages(),
-    install_requires=requires,
     )
