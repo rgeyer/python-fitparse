@@ -11,7 +11,7 @@ if sys.version_info < (2, 7):
 
     setup(
         name='fitparse',
-        version=fitparse.__version__,
+        version='0.0.1',
         description='Python library to parse ANT/Garmin .FIT files',
         author='David Cooper',
         author_email='dave@kupesoft.com',
